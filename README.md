@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Prediction Model Deployment using FastAPI
 
 ## Project Overview
@@ -249,3 +250,6 @@ Prediction Response
 
 Computer Science Engineering
 Data Science
+=======
+# Loan-Prediction-Model-Deployment-using-FastAPI
+>>>>>>> d10ce32cb0db9f60282b974e241974ec222d28ae
